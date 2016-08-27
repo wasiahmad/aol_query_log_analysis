@@ -1,0 +1,1221 @@
+chicago tribune	2006-03-01 09:30:21
+http://www.chicagotribune.com/
+
+kansas city star	2006-03-01 09:31:53
+http://www.kansascity.com/
+
+roanoke times	2006-03-01 09:43:58
+http://www.roanoke.com/
+
+california lottery	2006-03-01 09:47:20
+http://www.calottery.com/
+
+abrutis	2006-03-01 09:48:58
+http://www.abrutis.com/
+
+sfgate	2006-03-01 10:03:03
+http://www.sfgate.com/
+
+sfgate	2006-03-01 20:58:33
+http://www.sfgate.com/
+
+charter.net	2006-03-01 21:20:42
+http://www.charter.net/
+
+chicago tribune	2006-03-02 09:29:54
+http://www.chicagotribune.com/
+
+kansas city star	2006-03-02 09:31:00
+http://www.kansascity.com/
+
+roanoke times	2006-03-02 09:34:27
+http://www.roanoke.com/
+
+california lottery	2006-03-02 09:36:40
+http://www.calottery.com/
+
+montgomery advertiser	2006-03-02 09:44:03
+http://www.montgomeryadvertiser.com/
+
+sfgate	2006-03-02 09:46:30
+http://www.sfgate.com/
+
+abrutis	2006-03-02 22:32:38
+http://www.abrutis.com/
+
+sfgate	2006-03-02 23:16:39
+http://www.sfgate.com/
+
+orsm	2006-03-02 23:19:17
+http://www.orsm.net/
+
+kansas city star	2006-03-03 09:09:30
+http://www.kansascity.com/
+
+chicago tribune	2006-03-03 09:13:33
+http://www.chicagotribune.com/
+
+roanoke times	2006-03-03 09:18:01
+http://www.roanoke.com/
+
+montgomery advertiser	2006-03-03 09:22:08
+http://www.montgomeryadvertiser.com/
+
+roanoke times	2006-03-04 06:41:37
+http://www.roanoke.com/
+
+california lottery	2006-03-04 11:20:48
+http://www.calottery.com/
+
+montgomery advertiser	2006-03-04 11:29:38
+http://www.montgomeryadvertiser.com/
+
+california lottery	2006-03-05 12:01:55
+http://www.calottery.com/
+
+roanoke times	2006-03-05 12:05:05
+http://www.roanoke.com/
+
+sfgate	2006-03-05 12:08:12
+http://www.sfgate.com/
+
+kansas city star	2006-03-05 15:56:59
+http://www.kansascity.com/
+
+chicago tribune	2006-03-05 15:59:03
+http://www.chicagotribune.com/
+
+abrutis	2006-03-05 16:02:49
+http://www.abrutis.com/
+
+orsm	2006-03-05 16:03:57
+http://www.orsm.net/
+
+hokiesports	2006-03-05 16:07:37
+http://www.hokiesports.com/
+
+roanoke times	2006-03-05 19:50:46
+http://www.roanoke.com/
+
+orsm	2006-03-05 20:53:32
+http://www.orsm.net/
+
+sfgate	2006-03-05 21:43:36
+http://www.sfgate.com/
+
+chcago tribune	2006-03-06 08:40:07
+http://www.chicagotribune.com/
+
+kansas city star	2006-03-06 08:41:24
+http://www.kansascity.com/
+
+montgomery advertiser	2006-03-06 08:43:52
+http://www.montgomeryadvertiser.com/
+
+roanoke times	2006-03-06 08:46:05
+http://www.roanoke.com/
+
+california lottery	2006-03-06 08:54:56
+http://www.calottery.com/
+
+sfgate	2006-03-06 08:55:55
+http://www.sfgate.com/
+
+chicago tribune	2006-03-07 09:27:00
+http://www.chicagotribune.com/
+
+kansas city star	2006-03-07 09:28:34
+http://www.kansascity.com/
+
+roanoke times	2006-03-07 09:30:49
+http://www.roanoke.com/
+
+montgomery advertiser	2006-03-07 09:37:30
+http://www.montgomeryadvertiser.com/
+
+sfgate	2006-03-07 09:39:37
+http://www.sfgate.com/
+
+abrutis	2006-03-07 20:07:36
+http://www.abrutis.com/
+
+kansas city star	2006-03-08 09:15:34
+http://www.kansascity.com/
+
+chicago tribune	2006-03-08 09:17:19
+http://www.chicagotribune.com/
+
+roanoke times	2006-03-08 09:18:30
+http://www.roanoke.com/
+
+california lottery	2006-03-08 09:20:50
+http://www.calottery.com/
+
+montgomery advertiser	2006-03-08 09:26:51
+http://www.montgomeryadvertiser.com/
+
+sfgate	2006-03-08 09:34:26
+http://www.sfgate.com/
+
+orsm	2006-03-08 15:01:52
+http://www.orsm.net/
+
+california lottery	2006-03-08 23:11:30
+http://www.calottery.com/
+
+kansas city star	2006-03-09 06:50:31
+http://www.kansascity.com/
+
+chicago tribune	2006-03-09 06:51:57
+http://www.chicagotribune.com/
+
+roanoke times	2006-03-09 06:53:22
+http://www.roanoke.com/
+
+california lottery	2006-03-09 07:02:22
+http://www.calottery.com/
+
+roanoke times	2006-03-09 07:04:15
+http://www.roanoke.com/
+
+delta	2006-03-09 07:23:27
+http://www.delta.com/
+
+delta	2006-03-09 09:34:09
+http://www.delta.com/
+
+roanoke times	2006-03-09 09:37:24
+http://www.roanoke.com/
+
+delta	2006-03-09 12:06:16
+http://www.delta.com/
+
+hokiesports	2006-03-09 12:15:16
+http://www.hokiesports.com/
+
+chicago tribune	2006-03-13 09:38:12
+http://www.chicagotribune.com/
+
+kansas city star	2006-03-13 09:41:22
+http://www.kansascity.com/
+
+roanoke times	2006-03-13 09:47:38
+http://www.roanoke.com/
+
+montgomery advertiser	2006-03-13 09:51:38
+http://www.montgomeryadvertiser.com/
+
+sfgate	2006-03-13 09:58:47
+http://www.sfgate.com/
+
+chicago tribune	2006-03-14 09:12:18
+http://www.chicagotribune.com/
+
+kansas city star	2006-03-14 09:13:44
+http://www.kansascity.com/
+
+roanoke times	2006-03-14 09:17:08
+http://www.roanoke.com/
+
+montgomery advertiser	2006-03-14 09:20:16
+http://www.montgomeryadvertiser.com/
+
+sfgate	2006-03-14 09:29:21
+http://www.sfgate.com/
+
+orsm	2006-03-14 09:41:32
+http://www.orsm.net/
+
+abrutis	2006-03-14 09:49:03
+http://www.abrutis.com/
+
+kansas city star	2006-03-15 08:59:15
+http://www.kansascity.com/
+
+chicago tribune	2006-03-15 09:03:56
+http://www.chicagotribune.com/
+
+roanoke times	2006-03-15 09:10:32
+http://www.roanoke.com/
+
+california lottery	2006-03-15 09:12:39
+http://www.calottery.com/
+
+sfgate	2006-03-15 09:18:08
+http://www.sfgate.com/
+
+chicago tribune	2006-03-16 08:39:48
+http://www.chicagotribune.com/
+
+kansas city star	2006-03-16 08:41:12
+http://www.kansascity.com/
+
+roanoke times	2006-03-16 08:43:39
+http://www.roanoke.com/
+
+montgomery advertiser	2006-03-16 08:49:33
+http://www.montgomeryadvertiser.com/
+
+california lottery	2006-03-16 08:50:37
+http://www.calottery.com/
+
+sfgate	2006-03-16 09:08:02
+http://www.sfgate.com/
+
+orsm	2006-03-16 14:55:38
+http://www.orsm.net/
+
+abrutis	2006-03-16 15:38:04
+http://www.abrutis.com/
+
+sfgate	2006-03-16 15:47:03
+http://www.sfgate.com/
+
+orsm	2006-03-16 22:29:37
+http://www.orsm.net/
+
+sfgate	2006-03-16 22:37:43
+http://www.sfgate.com/
+
+chicago tribune	2006-03-17 09:07:47
+http://www.chicagotribune.com/
+
+kansas city star	2006-03-17 09:08:42
+http://www.kansascity.com/
+
+roanoke times	2006-03-17 09:09:53
+http://www.roanoke.com/
+
+montgomery advertiser	2006-03-17 09:13:51
+http://www.montgomeryadvertiser.com/
+
+california lottery	2006-03-17 09:18:57
+http://www.calottery.com/
+
+sfgate	2006-03-17 09:21:06
+http://www.sfgate.com/
+
+kansas city star	2006-03-19 01:09:58
+http://www.kansascity.com/
+
+roanoke times	2006-03-19 08:55:33
+http://roanoke.com/
+
+california lottery	2006-03-19 08:59:03
+http://www.calottery.com/
+
+chicago tribune	2006-03-19 09:00:56
+http://www.chicagotribune.com/
+
+kansas city star	2006-03-19 09:02:09
+http://www.kansascity.com/
+
+espn	2006-03-19 23:24:51
+http://espn.go.com/
+
+roanoke times	2006-03-20 07:55:27
+http://www.roanoke.com/
+
+roanoke times	2006-03-21 09:27:59
+http://www.roanoke.com/
+
+montgomery advertiser	2006-03-21 09:32:29
+http://www.montgomeryadvertiser.com/
+
+chicago tribune	2006-03-22 08:13:26
+http://www.chicagotribune.com/
+
+kansas city star	2006-03-22 08:14:37
+http://www.kansascity.com/
+
+roanoke times	2006-03-22 08:15:49
+http://www.roanoke.com/
+
+california lottery	2006-03-22 08:23:29
+http://www.calottery.com/
+
+orsm	2006-03-22 08:37:29
+http://www.orsm.net/
+
+lickit.com	2006-03-22 08:41:54
+http://www.lickit.com/
+
+delta	2006-03-22 09:56:02
+http://www.delta.com/
+
+charter.net	2006-03-22 09:59:50
+http://www.charter.net/
+
+orsm	2006-03-22 18:44:34
+http://www.orsm.net/
+
+delta	2006-03-22 20:14:26
+http://www.delta.com/
+
+roanoke time	2006-03-22 20:16:04
+http://www.timeanddate.com/
+
+roanoke times	2006-03-22 20:16:29
+http://www.roanoke.com/
+
+delta	2006-03-22 21:46:10
+http://www.delta.com/
+
+roanoke times	2006-03-28 01:46:17
+http://www.roanoke.com/
+
+chicago tribune	2006-03-28 08:42:38
+http://www.chicagotribune.com/
+
+kansas city star	2006-03-28 08:43:48
+http://www.kansascity.com/
+
+roanoke times	2006-03-28 08:45:13
+http://www.roanoke.com/
+
+montgomery advertiser	2006-03-28 08:48:41
+http://www.montgomeryadvertiser.com/
+
+roanoke times	2006-03-29 08:50:50
+http://www.roanoke.com/
+
+chicago tribune	2006-03-29 08:54:19
+http://www.chicagotribune.com/
+
+kansas city star	2006-03-29 08:55:19
+http://www.kansascity.com/
+
+montgomery advertiser	2006-03-29 08:59:45
+http://www.montgomeryadvertiser.com/
+
+california lottery	2006-03-29 09:02:44
+http://www.calottery.com/
+
+sfgate	2006-03-29 09:15:26
+http://www.sfgate.com/
+
+chicago tribune	2006-03-30 07:58:51
+http://www.chicagotribune.com/
+
+kansas city star	2006-03-30 08:00:10
+http://www.kansascity.com/
+
+roanoke times	2006-03-30 08:01:50
+http://www.roanoke.com/
+
+montgomery advertiser	2006-03-30 08:08:36
+http://www.montgomeryadvertiser.com/
+
+california lottery	2006-03-30 08:09:44
+http://www.calottery.com/
+
+sfgate	2006-03-30 09:22:09
+http://www.sfgate.com/
+
+orsm	2006-03-30 09:24:59
+http://www.orsm.net/
+
+kansas city star	2006-03-31 05:54:25
+http://www.kansascity.com/
+
+chicago tribune	2006-03-31 05:55:32
+http://www.chicagotribune.com/
+
+roanoke times	2006-03-31 05:57:45
+http://www.roanoke.com/
+
+chicago tribune	2006-03-31 06:04:34
+http://www.chicagotribune.com/
+
+chicago trbune	2006-03-31 07:16:25
+http://www.chicagotribune.com/
+
+chicago tribune	2006-03-31 07:17:04
+http://www.chicagotribune.com/
+
+sacramento bee	2006-03-31 07:18:56
+http://www.sacbee.com/
+
+montgomery advertiser	2006-03-31 07:23:35
+http://www.montgomeryadvertiser.com/
+
+chicago tribune	2006-03-31 09:01:26
+http://www.chicagotribune.com/
+
+orsm	2006-03-31 23:08:24
+http://www.orsm.net/
+
+roanoke times	2006-04-01 08:36:59
+http://www.roanoke.com/
+
+california lottery	2006-04-01 08:39:25
+http://www.calottery.com/
+
+roanoke times	2006-04-01 08:47:13
+http://www.roanoke.com/
+
+roanoke times	2006-04-01 15:14:17
+http://www.roanoke.com/
+
+kansas city star	2006-04-01 15:24:48
+http://www.kansascity.com/
+
+chicago tribune	2006-04-01 15:26:43
+http://www.chicagotribune.com/
+
+abrutis	2006-04-01 23:02:09
+http://www.abrutis.com/
+
+roanoke times	2006-04-02 07:06:03
+http://www.roanoke.com/
+
+california lottery	2006-04-02 07:08:28
+http://www.calottery.com/
+
+montgomery advertiser	2006-04-02 07:24:38
+http://www.montgomeryadvertiser.com/
+
+roanoke times	2006-04-02 07:26:10
+http://www.roanoke.com/
+
+hokiesports	2006-04-02 07:30:16
+http://www.hokiesports.com/
+
+roanoke times	2006-04-02 13:54:35
+http://www.roanoke.com/
+
+kansas city star	2006-04-02 13:59:27
+http://www.kansascity.com/
+
+chicago tribune	2006-04-02 14:00:49
+http://www.chicagotribune.com/
+
+sfgate	2006-04-02 19:40:20
+http://www.sfgate.com/
+
+kansas city star	2006-04-03 09:15:57
+http://www.kansascity.com/
+
+chicago tribune	2006-04-03 09:17:17
+http://www.chicagotribune.com/
+
+roanoke times	2006-04-03 09:19:18
+http://www.roanoke.com/
+
+montgomery advertiser	2006-04-03 09:23:41
+http://www.montgomeryadvertiser.com/
+
+sfgate	2006-04-03 09:27:42
+http://www.sfgate.com/
+
+chicago tribune	2006-04-04 08:56:25
+http://www.chicagotribune.com/
+
+kansas city star	2006-04-04 08:58:09
+http://www.kansascity.com/
+
+roanoke times	2006-04-04 08:59:05
+http://www.roanoke.com/
+
+montgomery advertiser	2006-04-04 09:03:07
+http://www.montgomeryadvertiser.com/
+
+california lottery	2006-04-04 09:12:45
+http://www.calottery.com/
+
+sfgate	2006-04-04 09:13:11
+http://www.sfgate.com/
+
+orsm	2006-04-04 22:26:15
+http://www.orsm.net/
+
+chicago tribune	2006-04-05 09:04:15
+http://www.chicagotribune.com/
+
+kansas city star	2006-04-05 09:05:30
+http://www.kansascity.com/
+
+roanoke times	2006-04-05 09:06:36
+http://www.roanoke.com/
+
+montgomery advertiser	2006-04-05 09:08:59
+http://www.montgomeryadvertiser.com/
+
+california lottery	2006-04-05 09:14:27
+http://www.calottery.com/
+
+chicago tribune	2006-04-11 08:43:57
+http://www.chicagotribune.com/
+
+kansas city star	2006-04-11 08:45:02
+http://www.kansascity.com/
+
+roanoke times	2006-04-11 08:47:16
+http://www.roanoke.com/
+
+montgomery advertiser	2006-04-11 09:14:02
+http://www.montgomeryadvertiser.com/
+
+hokiesports	2006-04-11 09:15:40
+http://www.hokiesports.com/
+
+california lottery	2006-04-11 09:17:17
+http://www.calottery.com/
+
+orsm	2006-04-11 20:49:11
+http://www.orsm.net/
+
+kansas city star	2006-04-12 09:42:25
+http://www.kansascity.com/
+
+chicago tribune	2006-04-12 09:44:10
+http://www.chicagotribune.com/
+
+california lottery	2006-04-12 09:45:29
+http://www.calottery.com/
+
+roanoke times	2006-04-12 09:46:18
+http://www.roanoke.com/
+
+montgomery advertiser	2006-04-12 09:53:27
+http://www.montgomeryadvertiser.com/
+
+sfgate	2006-04-12 10:00:45
+http://www.sfgate.com/
+
+hokiesports	2006-04-12 10:18:12
+http://www.hokiesports.com/
+
+roanoke times	2006-04-12 15:50:36
+http://www.roanoke.com/
+
+orsm	2006-04-12 22:00:39
+http://www.orsm.net/
+
+chicago tribune	2006-04-14 09:20:54
+http://www.chicagotribune.com/
+
+kansas city star	2006-04-14 09:23:11
+http://www.kansascity.com/
+
+montgomery advertiser	2006-04-14 09:25:33
+http://www.montgomeryadvertiser.com/
+
+roanoke times	2006-04-14 09:28:24
+http://www.roanoke.com/
+
+sfgate	2006-04-14 09:42:51
+http://www.sfgate.com/
+
+registrar vt.edu	2006-04-14 21:48:02
+http://www.registrar.vt.edu/
+
+roanoke times	2006-04-15 09:12:34
+http://www.roanoke.com/
+
+california lottery	2006-04-15 09:20:31
+http://www.calottery.com/
+
+kansas city star	2006-04-15 09:21:39
+http://www.kansascity.com/
+
+montgomery advertiser	2006-04-15 09:29:35
+http://www.montgomeryadvertiser.com/
+
+chicago tribune	2006-04-15 09:31:20
+http://www.chicagotribune.com/
+
+roanoke times	2006-04-15 18:49:50
+http://www.roanoke.com/
+
+orsm	2006-04-15 21:08:01
+http://www.orsm.net/
+
+sfgate	2006-04-15 21:14:15
+http://www.sfgate.com/
+
+roanoke times	2006-04-16 10:16:28
+http://www.roanoke.com/
+
+california lottery	2006-04-16 10:28:25
+http://www.calottery.com/
+
+montgomery advertiser	2006-04-16 10:30:55
+http://www.montgomeryadvertiser.com/
+
+kansas city star	2006-04-16 10:45:03
+http://www.kansascity.com/
+
+chicago tribune	2006-04-16 10:46:23
+http://www.chicagotribune.com/
+
+sfgate	2006-04-16 18:58:02
+http://www.sfgate.com/
+
+orsm	2006-04-16 20:16:34
+http://www.orsm.net/
+
+kansas city star	2006-04-17 08:39:56
+http://www.kansascity.com/
+
+chicago tribune	2006-04-17 08:41:09
+http://www.chicagotribune.com/
+
+roanoke times	2006-04-17 08:42:55
+http://www.roanoke.com/
+
+montgomery advertiser	2006-04-17 08:49:06
+http://www.montgomeryadvertiser.com/
+
+roanoke times	2006-04-17 12:52:17
+http://www.roanoke.com/
+
+orsm	2006-04-17 19:33:46
+http://www.orsm.net/
+
+kansas city star	2006-04-18 09:10:53
+http://www.kansascity.com/
+
+chicago tribune	2006-04-18 09:13:17
+http://www.chicagotribune.com/
+
+roanoke times	2006-04-18 09:18:40
+http://www.roanoke.com/
+
+montgomery advertiser	2006-04-18 09:23:07
+http://www.montgomeryadvertiser.com/
+
+orsm	2006-04-18 23:41:33
+http://www.orsm.net/
+
+california lottery	2006-04-19 09:15:05
+http://www.calottery.com/
+
+kansas city star	2006-04-19 09:16:14
+http://www.kansascity.com/
+
+chicago tribune	2006-04-19 09:17:43
+http://www.chicagotribune.com/
+
+roanoke times	2006-04-19 09:18:41
+http://www.roanoke.com/
+
+montgomery advertiser	2006-04-19 09:22:41
+http://www.montgomeryadvertiser.com/
+
+sfgate	2006-04-19 09:29:44
+http://www.sfgate.com/
+
+orsm	2006-04-19 22:02:20
+http://www.orsm.net/
+
+kansas city star	2006-04-20 09:14:31
+http://www.kansascity.com/
+
+chicago tribune	2006-04-20 09:16:10
+http://www.chicagotribune.com/
+
+california lottery	2006-04-20 09:17:15
+http://www.calottery.com/
+
+montgomery advertiser	2006-04-20 09:19:20
+http://www.montgomeryadvertiser.com/
+
+roanoke times	2006-04-20 09:21:11
+http://www.roanoke.com/
+
+sfgate	2006-04-20 09:33:02
+http://www.sfgate.com/
+
+kansas city star	2006-04-24 09:37:27
+http://www.kansascity.com/
+
+chicago tribune	2006-04-24 09:38:51
+http://www.chicagotribune.com/
+
+roanoke times	2006-04-24 09:39:56
+http://www.roanoke.com/
+
+montgomery advertiser	2006-04-24 09:48:13
+http://www.montgomeryadvertiser.com/
+
+orsm	2006-04-24 22:24:03
+http://www.orsm.net/
+
+orsm	2006-04-24 22:36:10
+http://www.orsm.net/
+
+chicago tribune	2006-04-25 08:39:17
+http://www.chicagotribune.com/
+
+kansas city star	2006-04-25 08:40:20
+http://www.kansascity.com/
+
+roanoke times	2006-04-25 08:41:29
+http://www.roanoke.com/
+
+montgomery advertiser	2006-04-25 08:48:29
+http://www.montgomeryadvertiser.com/
+
+sfgate	2006-04-25 09:10:29
+http://www.sfgate.com/
+
+hokiesports	2006-04-25 09:12:32
+http://www.hokiesports.com/
+
+orsm	2006-04-25 23:13:52
+http://www.orsm.net/
+
+chicago tribune	2006-04-26 08:54:05
+http://www.chicagotribune.com/
+
+kansas city star	2006-04-26 08:55:06
+http://www.kansascity.com/
+
+california lottery	2006-04-26 08:56:13
+http://www.calottery.com/
+
+roanoke times	2006-04-26 08:57:10
+http://www.roanoke.com/
+
+montgomery advertiser	2006-04-26 09:03:19
+http://www.montgomeryadvertiser.com/
+
+kansas city star	2006-04-27 09:06:18
+http://www.kansascity.com/
+
+roanoke times	2006-04-27 09:07:19
+http://www.roanoke.com/
+
+california lottery	2006-04-27 09:12:36
+http://www.calottery.com/
+
+montgomery advertiser	2006-04-27 09:14:00
+http://www.montgomeryadvertiser.com/
+
+orsm	2006-04-27 09:29:03
+http://www.orsm.net/
+
+orsm	2006-04-27 22:18:26
+http://www.orsm.net/
+
+chicago tribune	2006-04-28 09:24:54
+http://www.chicagotribune.com/
+
+kansas city star	2006-04-28 09:25:53
+http://www.kansascity.com/
+
+montgomery advertiser	2006-04-28 09:42:59
+http://www.montgomeryadvertiser.com/
+
+roanoke times	2006-04-28 09:44:54
+http://www.roanoke.com/
+
+roanoke times	2006-04-28 22:14:05
+http://www.roanoke.com/
+
+orsm	2006-04-29 08:38:35
+http://www.orsm.net/
+
+roanoke times	2006-04-29 08:39:05
+http://www.roanoke.com/
+
+montgomery advertiser	2006-04-29 08:44:20
+http://www.montgomeryadvertiser.com/
+
+california lottery	2006-04-29 08:45:50
+http://www.calottery.com/
+
+roanoke times	2006-04-29 19:21:18
+http://www.roanoke.com/
+
+roanoke times	2006-04-29 22:19:39
+http://www.roanoke.com/
+
+abrutis	2006-04-29 22:27:35
+http://www.abrutis.com/
+
+california lottery	2006-04-30 06:59:52
+http://www.calottery.com/
+
+roanoke times	2006-04-30 07:03:24
+http://www.roanoke.com/
+
+montgomery advertiser	2006-04-30 07:07:52
+http://www.montgomeryadvertiser.com/
+
+kansas city star	2006-04-30 07:14:50
+http://www.kansascity.com/
+
+orsm	2006-04-30 07:18:41
+http://www.orsm.net/
+
+chicago tribune	2006-04-30 07:20:15
+http://www.chicagotribune.com/
+
+chicago tribune	2006-05-01 09:11:03
+http://www.chicagotribune.com/
+
+kansas city star	2006-05-01 09:12:11
+http://www.kansascity.com/
+
+montgomery advertiser	2006-05-01 09:16:32
+http://www.montgomeryadvertiser.com/
+
+roanoke times	2006-05-01 09:18:30
+http://www.roanoke.com/
+
+sfgate	2006-05-01 09:31:16
+http://www.sfgate.com/
+
+orsm	2006-05-01 15:54:04
+http://www.orsm.net/
+
+orsm	2006-05-01 21:40:08
+http://www.orsm.net/
+
+sfgate	2006-05-01 21:40:53
+http://www.sfgate.com/
+
+sfgate	2006-05-01 22:40:32
+http://www.sfgate.com/
+
+kansas city star	2006-05-02 09:05:53
+http://www.kansascity.com/
+
+chicago tribune	2006-05-02 09:07:00
+http://www.chicagotribune.com/
+
+montgomery advertiser	2006-05-02 09:10:19
+http://www.montgomeryadvertiser.com/
+
+roanoke times	2006-05-02 09:11:31
+http://www.roanoke.com/
+
+orsm	2006-05-02 09:21:16
+http://www.orsm.net/
+
+orsm	2006-05-02 22:16:50
+http://www.orsm.net/
+
+montgomery advertiser	2006-05-03 09:10:06
+http://www.montgomeryadvertiser.com/
+
+roanoke times	2006-05-03 09:12:02
+http://www.roanoke.com/
+
+kansas city star	2006-05-03 09:15:58
+http://www.kansascity.com/
+
+chicago tribune	2006-05-03 09:17:26
+http://www.chicagotribune.com/
+
+california lottery	2006-05-03 09:32:24
+http://www.calottery.com/
+
+orsm	2006-05-03 21:51:28
+http://www.orsm.net/
+
+orsm	2006-05-03 22:21:35
+http://www.orsm.net/
+
+california lottery	2006-05-04 08:23:58
+http://www.calottery.com/
+
+roanoke times	2006-05-04 08:24:33
+http://www.roanoke.com/
+
+kansas city star	2006-05-04 08:31:52
+http://www.kansascity.com/
+
+chicago tribune	2006-05-04 08:35:06
+http://www.chicagotribune.com/
+
+kansas city star	2006-05-09 09:05:20
+http://www.kansascity.com/
+
+roanoke times	2006-05-09 09:07:08
+http://www.roanoke.com/
+
+chicago tribune	2006-05-09 09:13:27
+http://www.chicagotribune.com/
+
+montgomery advertiser	2006-05-09 09:16:32
+http://www.montgomeryadvertiser.com/
+
+kansas city star	2006-05-10 09:03:17
+http://www.kansascity.com/
+
+chicago tribune	2006-05-10 09:05:57
+http://www.chicagotribune.com/
+
+roanoke times	2006-05-10 09:07:34
+http://www.roanoke.com/
+
+montgomery advertiser	2006-05-10 09:13:43
+http://www.montgomeryadvertiser.com/
+
+california lottery	2006-05-10 09:21:05
+http://www.calottery.com/
+
+sfgate	2006-05-10 09:29:04
+http://www.sfgate.com/
+
+orsm	2006-05-10 16:05:29
+http://www.orsm.net/
+
+orsm	2006-05-10 22:04:49
+http://www.orsm.net/
+
+kansas city star	2006-05-11 09:21:32
+http://www.kansascity.com/
+
+chicago tribune	2006-05-11 09:23:12
+http://www.chicagotribune.com/
+
+montgomery advertiser	2006-05-11 09:25:29
+http://www.montgomeryadvertiser.com/
+
+roanoke times	2006-05-11 09:27:55
+http://www.roanoke.com/
+
+california lottery	2006-05-11 09:36:04
+http://www.calottery.com/
+
+kansa city star	2006-05-12 08:14:04
+http://www.kansascity.com/
+
+chicago tribune	2006-05-12 08:15:16
+http://www.chicagotribune.com/
+
+roanoke times	2006-05-12 08:17:12
+http://www.roanoke.com/
+
+california lottery	2006-05-13 07:30:02
+http://www.calottery.com/
+
+roanoke times	2006-05-13 07:31:02
+http://www.roanoke.com/
+
+kansas city star	2006-05-13 07:33:06
+http://www.kansascity.com/
+
+espn	2006-05-13 07:41:34
+http://espn.go.com/
+
+orsm	2006-05-13 10:38:13
+http://www.orsm.net/
+
+microsoft	2006-05-13 10:47:56
+http://www.microsoft.com/
+
+montgomery advertiser	2006-05-13 10:59:20
+http://www.montgomeryadvertiser.com/
+
+hokiesports	2006-05-13 11:07:41
+http://www.hokiesports.com/
+
+sfgate	2006-05-13 18:06:04
+http://www.sfgate.com/
+
+roanoke times	2006-05-13 21:17:45
+http://www.roanoke.com/
+
+kansas city star	2006-05-14 00:52:53
+http://www.kansascity.com/
+
+espn	2006-05-14 00:53:56
+http://espn.go.com/
+
+california lottery	2006-05-14 10:44:57
+http://www.calottery.com/
+
+roanoke times	2006-05-14 10:45:24
+http://www.roanoke.com/
+
+montgomery advertiser	2006-05-14 10:50:45
+http://www.montgomeryadvertiser.com/
+
+kansas city star	2006-05-14 17:22:37
+http://www.kansascity.com/
+
+kansas city star	2006-05-15 08:58:17
+http://www.kansascity.com/
+
+chicago tribune	2006-05-15 08:59:24
+http://www.chicagotribune.com/
+
+roanoke times	2006-05-15 09:00:29
+http://www.roanoke.com/
+
+montgomery advertiser	2006-05-15 09:02:52
+http://www.montgomeryadvertiser.com/
+
+roanoke times	2006-05-15 14:55:30
+http://www.roanoke.com/
+
+orsm	2006-05-15 15:07:18
+http://www.orsm.net/
+
+orsm	2006-05-16 22:52:16
+http://www.orsm.net/
+
+kansas city star	2006-05-18 08:21:56
+http://www.kansascity.com/
+
+chicago tribune	2006-05-18 08:23:11
+http://www.chicagotribune.com/
+
+california lottery	2006-05-18 08:24:28
+http://www.calottery.com/
+
+roanoke times	2006-05-18 08:26:18
+http://www.roanoke.com/
+
+montgomery advertiser	2006-05-18 08:28:23
+http://www.montgomeryadvertiser.com/
+
+orsm	2006-05-23 01:53:36
+http://www.orsm.net/
+
+kansas city star	2006-05-23 09:12:29
+http://www.kansascity.com/
+
+chicago tribune	2006-05-23 09:13:58
+http://www.chicagotribune.com/
+
+roanoke times	2006-05-23 09:15:19
+http://www.roanoke.com/
+
+montgomery advertiser	2006-05-23 09:18:55
+http://www.montgomeryadvertiser.com/
+
+montgomery advertiser	2006-05-23 09:37:23
+http://www.montgomeryadvertiser.com/
+
+roanoke times	2006-05-23 14:34:14
+http://www.roanoke.com/
+
+hokiesports	2006-05-23 14:35:49
+http://www.hokiesports.com/
+
+kansas city star	2006-05-24 07:51:35
+http://www.kansascity.com/
+
+chicago tribune	2006-05-24 07:52:49
+http://www.chicagotribune.com/
+
+roanoke times	2006-05-24 07:53:53
+http://www.roanoke.com/
+
+roanoke times	2006-05-24 14:50:41
+http://www.roanoke.com/
+
+roanoke times	2006-05-24 20:35:12
+http://www.roanoke.com/
+
+orsm	2006-05-24 22:26:01
+http://www.orsm.net/
+
+kansas city star	2006-05-25 07:17:15
+http://www.kansascity.com/
+
+chicago tribune	2006-05-25 07:18:38
+http://www.chicagotribune.com/
+
+roanoke times	2006-05-25 07:20:13
+http://www.roanoke.com/
+
+california lottery	2006-05-25 07:22:37
+http://www.calottery.com/
+
+montgomery advertiser	2006-05-25 08:58:03
+http://www.montgomeryadvertiser.com/
+
+roanoke times	2006-05-25 14:43:57
+http://www.roanoke.com/
+
+roanoke times	2006-05-25 20:22:16
+http://www.roanoke.com/
+
+orsm	2006-05-25 22:09:56
+http://www.orsm.net/
+
+kansas city star	2006-05-26 03:52:24
+http://www.kansascity.com/
+
+chicago tribune	2006-05-26 03:54:11
+http://www.chicagotribune.com/
+
+roanoke times	2006-05-26 03:55:12
+http://www.roanoke.com/
+
+montgomery advertiser	2006-05-26 09:22:26
+http://www.montgomeryadvertiser.com/
+
+roanoke times	2006-05-26 09:24:10
+http://www.roanoke.com/
+
+california lottery	2006-05-27 07:52:11
+http://www.calottery.com/
+
+kansas city star	2006-05-27 07:52:45
+http://www.kansascity.com/
+
+chicago tribune	2006-05-27 07:53:58
+http://www.chicagotribune.com/
+
+roanoke times	2006-05-27 07:54:54
+http://www.roanoke.com/
+
+montgomery advertiser	2006-05-27 08:00:18
+http://www.montgomeryadvertiser.com/
+
+kansas city star	2006-05-29 08:53:21
+http://www.kansascity.com/
+
+chicago tribune	2006-05-29 08:55:21
+http://www.chicagotribune.com/
+
+roanoke times	2006-05-29 08:57:52
+http://www.roanoke.com/
+
+sfgate	2006-05-29 17:56:11
+http://www.sfgate.com/
+
+roanoke times	2006-05-29 18:05:00
+http://www.roanoke.com/
+
+kansas city star	2006-05-30 07:51:41
+http://www.kansascity.com/
+
+chicago tribune	2006-05-30 07:53:36
+http://www.chicagotribune.com/
+
+roanoke times	2006-05-30 07:56:00
+http://www.roanoke.com/
+
+montgomery advertiser	2006-05-30 07:59:11
+http://www.montgomeryadvertiser.com/
+
+kansas city star	2006-05-31 07:52:20
+http://www.kansascity.com/
+
+chicago tribune	2006-05-31 07:54:26
+http://www.chicagotribune.com/
+
+roanoke times	2006-05-31 07:56:31
+http://www.roanoke.com/
+
+montgomery advertiser	2006-05-31 08:01:54
+http://www.montgomeryadvertiser.com/
+
+california lottery	2006-05-31 08:03:06
+http://www.calottery.com/
+
+hokiesports	2006-05-31 08:07:18
+http://www.hokiesports.com/
+
+roanoke times	2006-05-31 13:31:29
+http://www.roanoke.com/
+

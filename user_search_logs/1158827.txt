@@ -1,0 +1,706 @@
+wms definition	2006-03-01 00:27:44
+http://www.bitpipe.com/
+http://www.answers.com/
+http://isp.webopedia.com/
+
+inventory definition	2006-03-01 00:35:07
+http://www.investorwords.com/
+
+wms definition	2006-03-01 00:38:11
+http://www.answers.com/
+
+types of warehouse management systems	2006-03-01 10:37:50
+http://www.arcweb.com/
+
+warehouse management systems	2006-03-01 10:41:27
+http://logistics.about.com/
+http://www.inventoryops.com/
+
+mrp definition	2006-03-01 10:57:45
+http://www.answers.com/
+http://www.bilocon.com/
+
+mrp cost	2006-03-01 21:39:27
+http://marketplace.intuit.com/
+
+scm software	2006-03-02 13:11:05
+http://www.mapics.com/
+
+technology requirments for scm	2006-03-02 18:55:22
+http://www.globalreact.com/
+
+supply chain management software requirements	2006-03-02 19:09:04
+http://dmoz.org/
+http://logistics.about.com/
+http://www.mapics.com/
+http://www.logility.com/
+
+supply chain management software	2006-03-02 19:18:43
+http://www.cio.com/
+http://www.business.com/
+http://www.mapics.com/
+http://dir.yahoo.com/
+http://searchcio.techtarget.com/
+
+supply chain management technology	2006-03-02 19:27:09
+http://www.cio.com/
+
+supply chain management technologies	2006-03-02 19:28:43
+http://www.business.com/
+
+differences in supply chain management technologies	2006-03-03 19:38:23
+http://www.autofieldguide.com/
+http://www.findarticles.com/
+
+supply chain management technologies	2006-03-03 19:41:38
+http://www.business.com/
+
+retail software	2006-03-03 20:43:33
+http://www.capterra.com/
+
+pos definition	2006-03-03 21:41:23
+http://www.bitpipe.com/
+http://www.answers.com/
+http://www.investorwords.com/
+http://www.computeruser.com/
+http://searchcio.techtarget.com/
+
+pos functions	2006-03-03 22:19:23
+http://www.executivpro.com/
+
+retail software example	2006-03-03 22:32:01
+http://dmoz.org/
+http://news.thomasnet.com/
+http://www.freedownloadscenter.com/
+http://www.retailsoftware.com/
+http://www.bplans.com/
+http://www.possoftwareguide.com/
+http://us.mt.com/
+
+retail software	2006-03-03 22:53:20
+http://www.capterra.com/
+
+retail management software	2006-03-03 23:02:02
+http://www.celerant.com/
+http://www.capterra.com/
+http://www.apparelsearch.com/
+http://www.hoovers.com/
+http://dir.yahoo.com/
+http://www.microsoft.com/
+
+sap	2006-03-03 23:11:54
+http://www.sap.com/
+
+sap definition	2006-03-03 23:13:17
+http://www.answers.com/
+
+manufacturing software	2006-03-03 23:34:28
+http://www.ctsguides.com/
+
+erp software definition	2006-03-03 23:36:36
+http://www.webopedia.com/
+
+mrp software definition	2006-03-03 23:57:27
+http://www.bitpipe.com/
+http://www.webopedia.com/
+http://www.business.com/
+http://www.grayresearch.com/
+
+emr definition	2006-03-04 11:07:49
+http://www.answers.com/
+
+roi software	2006-03-04 11:37:57
+http://news.zdnet.com/
+
+healthcare software	2006-03-04 11:42:36
+http://www.healthcarefreeware.com/
+http://www.medicalsoftwareforpdas.com/
+http://www.capterra.com/
+http://www.hcsinteractant.com/
+http://www.linuxmednews.com/
+
+ehr definition	2006-03-04 11:53:54
+http://www.himss.org/
+
+retail hardware technology	2006-03-04 12:52:07
+http://www.datamaxsys.com/
+
+bar code scanners	2006-03-04 12:54:34
+http://www.symbol.com/
+
+bar code scanners definition	2006-03-04 12:55:52
+http://searchcio.techtarget.com/
+
+bar code scanners optimize cost	2006-03-04 13:03:10
+http://www.advanceware.net/
+
+bar code scanners cost benefits	2006-03-04 13:09:33
+http://www.effectiveinventory.com/
+
+healthcare hardware technology	2006-03-04 13:23:31
+http://www.himss.org/
+http://www.idc.com/
+http://www.knowledgestorm.com/
+
+robotics in manufacturing	2006-03-04 13:46:05
+http://www.mfg.uky.edu/
+
+robotics definition	2006-03-04 13:46:55
+http://www.answers.com/
+
+zx12r decals	2006-03-06 11:48:39
+http://www.xtremedecals.com/
+
+zx12r decals	2006-03-06 12:33:25
+http://www.xtremedecals.com/
+
+benefits of reverse logistics	2006-03-06 21:45:33
+http://www.nsc.org/
+http://www.reverselogisticstrends.com/
+http://www.sole.org/
+http://www.marketresearch.com/
+http://www.wastetocharity.org/
+
+benefits of salvaging in manufacturing	2006-03-06 21:52:18
+http://www.interscopemfg.com/
+
+manufacturing salvaging benefits	2006-03-06 21:56:52
+http://www.interscopemfg.com/
+http://www.ilsr.org/
+http://www.indiatogether.org/
+
+edge wheels	2006-03-06 22:39:00
+http://www.widgetsupply.com/
+http://crite2000.zoovy.com/
+http://adaptivestrategies.com/
+http://www.thewheelconnection.com/
+
+refurbishing benefits	2006-03-07 18:46:32
+http://www.resna.org/
+
+kelly blue book	2006-03-08 18:10:15
+http://www.kbb.com/
+
+reverse logistics remanufacturing benefits	2006-03-08 20:09:46
+http://www.cscmp.org/
+http://www.inboundlogistics.com/
+
+reverse logistics disposition benefits	2006-03-08 20:26:58
+http://www.ups-scs.com/
+http://www.inboundlogistics.com/
+
+dell reverse logistics	2006-03-08 20:44:02
+http://www.ups-scs.com/
+http://www.reverselogisticstrends.com/
+
+disposition benefits for reverse logistics	2006-03-08 21:05:18
+http://www.ups-scs.com/
+http://www.fcbco.com/
+http://www.3isite.com/
+http://www.reverselogisticstrends.com/
+
+computer backbacks	2006-03-09 00:14:37
+http://www.thefamilystore.net/
+
+computer backbacks	2006-03-09 00:28:51
+http://www.thefamilystore.net/
+
+leather computer backbacks	2006-03-09 00:30:26
+http://www.the-gadgeteer.com/
+http://www.thefamilystore.net/
+http://www.specialtyluggage.com/
+
+automotive industry reverse logistics	2006-03-10 20:29:48
+http://www.iee.org/
+
+gm reverse logistics	2006-03-10 21:11:41
+http://www.ups-scs.com/
+http://www.schneider.com/
+http://www.edawn.org/
+
+reverse logistics unique to auto industry	2006-03-10 21:20:26
+http://www.iee.org/
+http://www.inboundlogistics.com/
+
+reverse logistics unique to auto industry	2006-03-10 21:24:36
+http://www.wbresearch.com/
+
+reverse logistics key elements automotive industry	2006-03-10 21:45:12
+http://www.exel.com/
+http://www.sustainablealuminum.org/
+http://www.iru.org/
+http://www.wbresearch.com/
+
+reverse logistics key elements auto parts	2006-03-11 09:01:54
+http://www.exel.com/
+http://www.inboundlogistics.com/
+
+return management key elements auto parts	2006-03-11 09:23:18
+http://www.wrenchead.com/
+
+auto parts returns management	2006-03-11 09:26:36
+http://www.us.capgemini.com/
+http://www.businessweek.com/
+http://www.manh.com/
+
+auto parts returns management	2006-03-11 09:31:13
+http://www.agile.com/
+
+reverse logistics automotive parts	2006-03-11 09:33:36
+http://www.manh.com/
+
+reverse logistics automotive parts	2006-03-11 09:44:05
+http://www.dhl.com.sg/
+
+electronics industry reverse logistics issues	2006-03-11 09:51:51
+http://ideas.repec.org/
+
+reverse logistics issues auto electronic	2006-03-11 10:38:58
+http://www.exel.com/
+http://www.logility.com/
+http://www.apo-tokyo.org/
+
+auto electronics reverse logistics	2006-03-11 11:10:43
+http://www.3plogistics.com/
+http://www.logility.com/
+
+auto electronics reverse logistics concerns	2006-03-11 11:56:55
+http://www.ce.org/
+
+wireless cards	2006-03-15 21:08:29
+http://www.amazon.com/
+
+marquis bridal sets	2006-03-15 23:20:40
+http://www.elsarings.com/
+http://www.topweddingsites.com/
+http://awesomegems.com/
+
+strategic planning definition	2006-03-20 13:37:39
+http://www.nonprofits.org/
+http://www.investorwords.com/
+
+tactical planning definition	2006-03-20 13:49:21
+http://www.ies.aust.com/
+
+detailed production planning definition	2006-03-20 13:55:46
+http://sap.ittoolbox.com/
+http://www.sei.cmu.edu/
+http://www.apics-sd.org/
+
+detailed production planning	2006-03-20 14:03:23
+http://www.bls.gov/
+http://www.ilog.com/
+
+detailed production planning definition	2006-03-20 14:04:33
+http://www.sei.cmu.edu/
+http://sap.ittoolbox.com/
+http://www.apics-sd.org/
+http://download.microsoft.com/
+http://www.capgemini.com/
+http://www.proplanner.com/
+
+erp definition	2006-03-23 18:56:45
+http://www.investorwords.com/
+http://searchsap.techtarget.com/
+http://www.computerworld.com/
+
+specific production planning	2006-03-23 19:14:49
+http://xml.coverpages.org/
+
+area codes	2006-03-24 08:38:29
+http://www.bennetyee.org/
+
+check online schools accreditation	2006-03-24 13:36:11
+http://www.elearners.com/
+http://www.online-college-degree-resources.com/
+http://www.learn-source.com/
+
+product specific production advantages and disadvantages	2006-03-24 21:23:10
+http://www.sei.cmu.edu/
+
+manufacturing production advantages and disadvantages	2006-03-24 21:29:21
+http://www.ueonline.com/
+
+manufacturing production planning utilities	2006-03-24 21:40:00
+http://ca.knowledgestorm.com/
+
+manufacturing production planning	2006-03-24 21:41:01
+http://www.twi.co.uk/
+
+specific production planning	2006-03-24 21:42:43
+http://online.onetcenter.org/
+http://www.dsmforum.org/
+http://xml.coverpages.org/
+
+car tire pressure	2006-03-26 13:01:17
+http://www.csaa.com/
+http://www.sportcompactcarweb.com/
+
+production line flexibility definition	2006-03-27 10:26:39
+http://www.ugs.com/
+
+production flexibility definition	2006-03-27 20:39:05
+http://www.websters-online-dictionary.org/
+http://news.sel.sony.com/
+
+home inspection	2006-03-27 21:26:59
+http://www.homeinspections-usa.com/
+http://www.home-inspect.com/
+
+capacity planning methods definition	2006-03-27 21:33:31
+http://www.teamquest.com/
+
+product design examples	2006-03-28 10:27:26
+http://www.mantracourt.co.uk/
+
+product design flexibilty	2006-03-28 10:29:05
+http://www.aviationdesign.com/
+
+manufacturing product design flexibilty	2006-03-28 10:32:39
+http://www.directindustry.com/
+
+manufacturing product design flexibilty	2006-03-28 10:34:22
+http://www.deloitte.com/
+
+manufacturing product development flexibility	2006-03-28 10:40:44
+http://www.invitrogen.com/
+
+product development flexibilty	2006-03-28 10:43:16
+http://www.hawkquality.com/
+http://www.zflinux.com/
+
+product design	2006-03-28 21:55:07
+http://www.betterproductdesign.net/
+
+product flexibility design	2006-03-28 21:59:18
+http://www.amd.com/
+
+flexible product design	2006-03-28 22:02:52
+http://www.roundtable.com/
+
+flexible product development	2006-03-28 22:09:26
+http://en.wikipedia.org/
+http://www.roundtable.com/
+
+flexible product design	2006-03-28 22:24:17
+http://www.minco.com/
+http://www.hp.com/
+
+flexible product robotics	2006-03-28 22:27:27
+http://www.prodel.net/
+
+time series forcasting definition	2006-03-30 21:10:59
+http://www.vub.ac.be/
+
+time series manufacturing	2006-03-31 09:59:22
+http://www.census.gov/
+http://ideas.repec.org/
+
+manufacturing using time series	2006-03-31 10:04:17
+http://www.statistics.gov.uk/
+
+industries using time series	2006-03-31 10:10:21
+http://scausa.com/
+http://www.oecd.org/
+
+retail industry using time series	2006-03-31 11:20:23
+http://www.census.gov/
+
+retail industry using time series	2006-03-31 17:17:16
+http://www.census.gov/
+
+significance of forecasting error	2006-03-31 23:12:18
+http://www.treasury.govt.nz/
+
+time series forecasting error	2006-03-31 23:45:48
+http://www.statsoft.com/
+
+example of time series errors	2006-03-31 23:59:14
+http://www.statsoft.com/
+http://www.omatrix.com/
+
+lag lead match strategy	2006-04-03 10:25:18
+http://www.business.auburn.edu/
+http://www.seradex.com/
+
+capacity planning example	2006-04-03 10:31:08
+http://www.teamquest.com/
+
+match capacity planning	2006-04-04 13:15:29
+http://www.teamquest.com/
+
+production workflow process	2006-04-04 22:11:57
+http://www.pb.com/
+http://www.aspose.com/
+
+example of production workflow process	2006-04-04 22:17:26
+http://designorati.com/
+
+free puzzles	2006-04-04 23:22:09
+http://www.freepuzzles.com/
+
+free word search puzzles	2006-04-04 23:24:00
+http://www.free-online-word-search-puzzles.com/
+http://www.zdaily.com/
+
+production process	2006-04-05 11:10:53
+http://www.itl.nist.gov/
+http://www.sytsma.com/
+
+production process metrics	2006-04-05 11:19:03
+http://www.aphis.usda.gov/
+http://www.awprofessional.com/
+http://www.balancedscorecard.org/
+
+common metrics for production process	2006-04-05 11:29:08
+http://www.prosci.com/
+
+workflow production factors	2006-04-05 11:39:57
+http://www.e-workflow.org/
+
+workflow production factors example	2006-04-05 11:51:25
+http://designorati.com/
+
+production metrics example	2006-04-05 11:56:46
+http://www.rwd.com/
+
+factors of production workflow	2006-04-05 12:00:14
+http://designorati.com/
+
+theory of constraint definition	2006-04-05 12:04:20
+http://www.answers.com/
+http://www.focusedperformance.com/
+
+theory of constraint	2006-04-05 12:07:45
+http://www.focusedperformance.com/
+
+production planning	2006-04-05 14:14:20
+http://www.laas.fr/
+http://www.oasis-open.org/
+
+production planning	2006-04-05 20:24:48
+http://www.oasis-open.org/
+
+production planning process	2006-04-05 20:26:57
+http://www.netmba.com/
+
+manufacturing production planning process	2006-04-05 20:31:15
+http://www.nagarro.com/
+
+mens warehouse	2006-04-08 16:09:15
+http://www.menswearhouse.com/
+
+continuouse improvement	2006-04-08 20:15:47
+http://www.zyen.com/
+
+continuouse improvement definition	2006-04-08 20:53:34
+http://www.zyen.com/
+
+continuous improvement definition	2006-04-08 20:54:42
+http://www.leanadvisors.com/
+
+tarriff definition	2006-04-11 10:56:17
+http://financial-dictionary.thefreedictionary.com/
+
+time zones	2006-04-14 00:26:11
+http://www.timeanddate.com/
+http://www.worldtimezone.com/
+
+time zones categories	2006-04-14 00:31:05
+http://dir.yahoo.com/
+
+quality management tools methods	2006-04-17 22:49:29
+http://www.isixsigma.com/
+
+statistical process control	2006-04-18 19:18:32
+http://www.isixsigma.com/
+
+operations manager	2006-04-20 18:17:21
+http://resume.monster.com/
+
+operations manager	2006-04-20 18:48:45
+http://resume.monster.com/
+
+quality management tools	2006-04-21 03:40:55
+http://www.skymark.com/
+
+michigan time zone	2006-04-21 17:01:56
+http://www.timetemperature.com/
+
+resource based approach in strategic management	2006-05-02 22:01:41
+http://charityvillage.com/
+
+resource based approach in global market	2006-05-02 22:09:26
+http://www.ic2.org/
+
+resource based approach in globalization	2006-05-02 22:10:38
+http://www.jbs.cam.ac.uk/
+
+globalization definition	2006-05-02 22:19:18
+http://www.investorwords.com/
+
+industrial organization	2006-05-03 20:30:23
+http://www.nber.org/
+http://www.ios.neu.edu/
+http://www.csio.econ.northwestern.edu/
+
+swot in excel	2006-05-04 21:56:24
+http://www.jaxworks.com/
+
+swot	2006-05-05 17:27:06
+http://www.quickmba.com/
+http://www.marketingteacher.com/
+
+internal scanning	2006-05-05 21:36:25
+http://www.fiu.edu/
+http://www.qualys.com/
+
+blue heeler	2006-05-05 21:55:26
+http://www.nextdaypets.com/
+
+swot analysis description	2006-05-05 22:34:05
+http://www.12manage.com/
+http://www.1000ventures.com/
+
+blue heeler names	2006-05-05 23:08:46
+http://www.cat-dog-names.com/
+http://pets.htmlplanet.com/
+
+australian sheppard	2006-05-05 23:59:50
+http://www.gotpetsonline.com/
+
+blue heeler	2006-05-06 00:12:25
+http://www.blueheeler.com/
+
+business venture	2006-05-07 23:21:56
+http://www.fasttrac.org/
+
+business models	2006-05-07 23:50:05
+http://www.1000ventures.com/
+
+business strategies	2006-05-09 19:57:26
+http://www.planware.org/
+
+business strategy definition	2006-05-09 20:11:00
+http://www.answers.com/
+http://www.bin95.com/
+
+competitive advantage	2006-05-10 22:24:10
+http://www.tutor2u.net/
+
+competitive strategy	2006-05-10 23:24:30
+http://www.1000ventures.com/
+
+competitive strategy	2006-05-10 23:32:52
+http://www.isc.hbs.edu/
+http://www.1000ventures.com/
+http://www.monitor.com/
+
+manufacturing strategic alternatives	2006-05-12 18:32:58
+http://www.knapeandvogt.com/
+http://www.ifm.eng.cam.ac.uk/
+
+manufacturing strategic alternatives	2006-05-12 22:00:45
+http://www.knapeandvogt.com/
+http://www.ifm.eng.cam.ac.uk/
+
+reengineering strategy	2006-05-18 10:41:40
+http://www.manageris.com/
+
+blue heeler	2006-05-18 20:08:41
+http://www.blueheeler.com/
+http://www.cattledog.com/
+
+strategic alternatives for harley-davidson	2006-05-18 20:29:55
+http://www.mccombs.utexas.edu/
+
+strategic alternatives for harley-davidson	2006-05-19 12:47:04
+http://www.mccombs.utexas.edu/
+
+strategic alternatives for harley-davidson	2006-05-19 12:59:54
+http://www.mmc.com/
+
+manufacturing implementation	2006-05-19 13:31:13
+http://www.strategosinc.com/
+
+strategy implementation	2006-05-19 17:42:08
+http://www.themanager.org/
+
+strategy implementation	2006-05-19 20:40:40
+http://www.sdg.com/
+
+strategy implementation process	2006-05-19 20:44:46
+http://www.strategyandcompetitionbooks.com/
+
+strategy implementation steps	2006-05-19 20:50:25
+http://www.entarga.com/
+
+strategy implementation what must be done	2006-05-19 20:57:09
+http://fast.faa.gov/
+
+matrix of change	2006-05-19 21:00:58
+http://ccs.mit.edu/
+
+evaluation and control in strategic management	2006-05-20 10:41:56
+http://www.gao.gov/
+http://mktgandmgmt.utep.edu/
+
+enterprise risk management	2006-05-20 11:47:16
+http://www.cio.com/
+
+the balance score card	2006-05-20 12:04:22
+http://www.balancedscorecard.org/
+
+walmart's information system	2006-05-23 22:37:56
+http://fscavo.blogspot.com/
+
+wal-mart implementation monitoring	2006-05-24 17:20:23
+http://www.cleanclothes.org/
+
+walmart's evaluation and control	2006-05-24 17:33:14
+http://www.actapress.com/
+http://www.advancingwomen.com/
+http://yro.slashdot.org/
+http://fscavo.blogspot.com/
+
+walmart's real-time information system	2006-05-24 17:43:20
+http://www.informationweek.com/
+
+walmart's internal performance measures	2006-05-24 17:57:50
+http://hbswk.hbs.edu/
+http://biz.yahoo.com/
+http://walmartspace.blogspot.com/
+
+walmart's internal information systems	2006-05-24 18:19:42
+http://www.walmartstores.com/
+http://phx.corporate-ir.net/
+http://searchcio.techtarget.com/
+http://www.informationweek.com/
+
+walmart's computer information systems	2006-05-24 18:39:53
+http://fscavo.blogspot.com/
+http://www.informationweek.com/
+
+walmart's internal computer information systems capabilities	2006-05-24 18:45:02
+http://www.locationintelligence.net/
+http://www.prnewswire.com/
+
+wal-marts strategic plans	2006-05-24 22:57:04
+http://www.gao.gov/
+
+walmart's quality management	2006-05-24 23:14:21
+http://www.investopedia.com/
+
+employee turnover rates	2006-05-25 12:13:39
+http://www.accountemps.com/
+
+employee promotion requirements	2006-05-25 17:49:39
+http://foia.state.gov/
+http://www.mcdhr.org/
+
+promoting employees	2006-05-25 17:54:59
+http://www.entrepreneur.com/
+
+reducing employee turnover rate	2006-05-25 18:19:23
+http://www.businessknowhow.com/
+

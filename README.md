@@ -20,6 +20,18 @@ This project aims to analyze different aspects of the **AOL query log** and extr
   </crawledData>
   ```
 
+### Name-Location-Organization mention
+
+#### Name mentions in user queries
+ XXXXX
+
 <p align="center">
   <img src="https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/person-mention.png" width="750"/>
 </p>
+
+#### Location mentions in user queries
+
+#### Organization mentions in user queries
+
+
+

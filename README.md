@@ -14,7 +14,7 @@ For Named-Entity analysis, we have considered the top **1000** user search logs 
 | Total queries where location entity found | 19,945 |
 | Total queries where organization entity found | 22,730 |
 
-Full result of the named entity analysis can be found [here](https://raw.githubusercontent.com/wasiahmad/AOL-Query-Log-Analysis/master/results/ner-analysis-results.md). In the following section, we are showing the results for individual entities.
+**Full result of the named entity analysis can be found [here](https://raw.githubusercontent.com/wasiahmad/AOL-Query-Log-Analysis/master/results/ner-analysis-results.md)**. In the following section, we are showing the results for individual entities.
 
 #### Name mentions in user queries
 In the following figure, we are presenting the statistics of the user queries where name entities are used.

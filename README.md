@@ -19,3 +19,5 @@ Crawling all web Urls from AOL dataset
   	</page>
   </crawledData>
   ```
+
+![](https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/person-mention.png)

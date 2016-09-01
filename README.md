@@ -31,6 +31,10 @@ This project aims to analyze different aspects of the **AOL query log** and extr
 
 #### Location mentions in user queries
 
+<p align="center">
+  <img src="https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/location-mention.png" width="750"/>
+</p>
+
 #### Organization mentions in user queries
 
 

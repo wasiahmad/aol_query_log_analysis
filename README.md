@@ -20,4 +20,6 @@ Crawling all web Urls from AOL dataset
   </crawledData>
   ```
 
-![](https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/person-mention.png)
+<p align="center">
+  <img src="https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/person-mention.png" width="750"/>
+</p>

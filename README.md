@@ -1,7 +1,7 @@
 # AOL Query Log Analysis
 This project aims to analyze different aspects of the **AOL query log** and extract insightful information that may help to approach other research problems in **information retrieval**.
 
-Crawling all web Urls from AOL dataset
+### Crawling all web Urls from AOL dataset
   * There are **1,632,797** URLs in AOL dataset and we have crawled **1,051,483** wchich is **64.4%** of the total number of URLs. Remaining URLs are either dead, broken or moved permanently to another URL. List of all the URLs can be found [here](https://drive.google.com/a/virginia.edu/file/d/0B8ZGlkqDw7hFNkc0c0p1OVF2YTA/view).
 
   We have stored the crawled data in one xml file and the format of the file looks like below.
@@ -20,4 +20,18 @@ Crawling all web Urls from AOL dataset
   </crawledData>
   ```
 
-![](https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/person-mention.png)
+### Name-Location-Organization mention
+
+#### Name mentions in user queries
+ XXXXX
+
+<p align="center">
+  <img src="https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/person-mention.png" width="750"/>
+</p>
+
+#### Location mentions in user queries
+
+#### Organization mentions in user queries
+
+
+

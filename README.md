@@ -43,6 +43,10 @@ In the following figure, we are presenting the statistics of the user queries wh
 
 From the graph, we can see **425** and **430** users mentioned about named entities in their **0%-10%** and **10%-20%** queries respectively.
 
+### POSTag [Part-of-Speech tag] Analysis
+
+We have used [Stanford Log Linear Part-of-Speech Tagger](http://nlp.stanford.edu/software/tagger.shtml) for this analysis. Full result of the POSTagging analysis can be found [here]().
+
 ### AOL Data description
 
 ```

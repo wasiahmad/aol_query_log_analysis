@@ -47,6 +47,10 @@ From the graph, we can see **425** and **430** users mentioned about named entit
 
 We have used [Stanford Log Linear Part-of-Speech Tagger](http://nlp.stanford.edu/software/tagger.shtml) for this analysis. Full result of the POSTagging analysis can be found [here](https://raw.githubusercontent.com/wasiahmad/AOL-Query-Log-Analysis/master/results/postagging-analysis-results.md).
 
+### AOL Query Topic Analysis
+
+We have done topic analysis on the user queries using our [Hierarchical Privacy Preserving Information Retrieval](https://github.com/wasiahmad/Hierarchical-Privacy-Preserving-IR) project. Full result of this analysis is available [here](https://raw.githubusercontent.com/wasiahmad/AOL-Query-Log-Analysis/master/results/query-topic-analysis.md)
+
 ### AOL Data description
 
 ```

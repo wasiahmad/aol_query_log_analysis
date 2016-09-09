@@ -49,7 +49,7 @@ We have used [Stanford Log Linear Part-of-Speech Tagger](http://nlp.stanford.edu
 
 ### AOL Query Topic Analysis
 
-We have done topic analysis on the user queries using our [Hierarchical Privacy Preserving Information Retrieval](https://github.com/wasiahmad/Hierarchical-Privacy-Preserving-IR) project. Full result of this analysis is available [here](https://raw.githubusercontent.com/wasiahmad/AOL-Query-Log-Analysis/master/results/query-topic-analysis.md)
+We have done topic analysis on the user queries using our [Hierarchical Privacy Preserving Information Retrieval](https://github.com/wasiahmad/Hierarchical-Privacy-Preserving-IR) project. Full result of this analysis is available [here](https://raw.githubusercontent.com/wasiahmad/AOL-Query-Log-Analysis/master/results/query-topic-analysis.md).
 
 ### AOL Data description
 

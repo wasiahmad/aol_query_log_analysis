@@ -74,30 +74,30 @@ To understand the result, i am explaining few snippets from the full result.
 #### Example 1: 
 If total number of cover queries need to be generated is 2 (one from sibling topic, one from non-sibling same level topic), then  Our [Hierarchical Privacy Preserving Information Retrieval](https://github.com/wasiahmad/Hierarchical-Privacy-Preserving-IR) model generates cover queries as provided below. **Cover queries are in stemmed form**.
 ```
-Query: blood sugar chart[2006-03-01 13:15:43], Best Topic: Cooking<-Home<-Top[6.385665314335517E-20], Second Best Topic: Consumer_Information<-Home<-Top[3.03048523392194E-20]
+Query: blood sugar chart [2006-03-01 13:15:43], Best Topic: Cooking<-Home<-Top[6.385665314335517E-20], Second Best Topic: Consumer_Information<-Home<-Top[3.03048523392194E-20]
 -----------------------------------------------------------
 Cover Query#1 : provid tip [Gardening<-Home<-Top], Cover Query#2 : afternoon [Running<-Sports<-Top]
 ```
 ```
-Query: michigan sex offender[2006-03-02 07:32:33], Best Topic: Employment<-Environment<-Science<-Top[1.0823161549721215E-21], Second Best Topic: Education<-Guns<-Recreation<-Top[1.0823161549721215E-21]
+Query: michigan sex offender [2006-03-02 07:32:33], Best Topic: Employment<-Environment<-Science<-Top[1.0823161549721215E-21], Second Best Topic: Education<-Guns<-Recreation<-Top[1.0823161549721215E-21]
 -----------------------------------------------------------
 Cover Query#1 : 945 [Climate_Change<-Environment<-Science<-Top], Cover Query#2 : strategi strategi equival web game is [Button_Men<-Dice<-Games<-Top]
 ```
 #### Example 2: 
 Our [Hierarchical Privacy Preserving Information Retrieval](https://github.com/wasiahmad/Hierarchical-Privacy-Preserving-IR) model sometimes can't generate cover queries from sibling topics because of not having rich language models organized in a hierarchical manner. **Cover queries are in stemmed form**.
 ```
-Query: eta eta sigma wmu[2006-03-02 14:05:10], Best Topic: Regional<-Top[2.5244324176014525E-34], Second Best Topic: Health<-Top[2.211274978455956E-34]
+Query: eta eta sigma wmu [2006-03-02 14:05:10], Best Topic: Regional<-Top[2.5244324176014525E-34], Second Best Topic: Health<-Top[2.211274978455956E-34]
 -----------------------------------------------------------
 Cover Query#1 : front page world [News<-Top]
 ```
 #### Example 3:
 If our [Hierarchical Privacy Preserving Information Retrieval](https://github.com/wasiahmad/Hierarchical-Privacy-Preserving-IR) model identifies sequentially edited queries, it handles them accordingly. One example is given below. **Cover queries are in stemmed form**.
 ```
-Query: homewood suites[2006-04-08 16:49:13], Best Topic: Hotels_and_Motels<-Hospitality<-Business<-Top[1.484658648795777E-13], Second Best Topic: Contests<-Writers_Resources<-Arts<-Top[1.484658648795777E-13]
+Query: homewood suites [2006-04-08 16:49:13], Best Topic: Hotels_and_Motels<-Hospitality<-Business<-Top[1.484658648795777E-13], Second Best Topic: Contests<-Writers_Resources<-Arts<-Top[1.484658648795777E-13]
 -----------------------------------------------------------
 Cover Query#1 : driver [Associations<-Hospitality<-Business<-Top], Cover Query#2 : solutionskong productspet partner [Pet_Supplies<-Consumer_Goods_and_Services<-Business<-Top]
 ___________________________________________________________
-Query: country inn & suites[2006-04-08 16:52:11], Best Topic: Hospitality<-Business<-Top[2.0443749428323496E-20], Second Best Topic: Hotels_and_Motels<-Hospitality<-Business<-Top[1.202573495783735E-21]
+Query: country inn & suites [2006-04-08 16:52:11], Best Topic: Hospitality<-Business<-Top[2.0443749428323496E-20], Second Best Topic: Hotels_and_Motels<-Hospitality<-Business<-Top[1.202573495783735E-21]
 *****current query is sequentially edited from previous query*****
 -----------------------------------------------------------
 Cover Query#1 : 2007 upgrad england' rise star marriott courtyard [Hospitality<-Business<-Top], Cover Query#2 : luggag tagscustom [Consumer_Goods_and_Services<-Business<-Top]

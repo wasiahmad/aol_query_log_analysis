@@ -1,5 +1,5 @@
 # AOL Query Log Analysis
-This project aims to analyze different aspects of the **AOL query log** and extract insightful information that may help to approach other research problems in **information retrieval**.
+This project aims to analyze different aspects of the **AOL query log** and extract insightful information that may help to approach other research problems in **information retrieval**. For all the experimented conducted here, we have considered only the top **1000** user search logs who has the most number of search queries with clicks.
 
 ## Table of Contents
  - [Named Entity [Person-Location-Organization] Analysis](#named-entity-person-location-organization-analysis)
@@ -62,8 +62,16 @@ From the graph, we can see **425** and **430** users mentioned about named entit
 We have used [Stanford Log Linear Part-of-Speech Tagger](http://nlp.stanford.edu/software/tagger.shtml) for this analysis. Full result of the POSTagging analysis can be found [here](https://raw.githubusercontent.com/wasiahmad/AOL-Query-Log-Analysis/master/results/postagging-analysis-results.md).
 
 ### AOL Query Topic Analysis
+We have done topic analysis on the user queries using our [Hierarchical Privacy Preserving Information Retrieval](https://github.com/wasiahmad/Hierarchical-Privacy-Preserving-IR) project.
 
-We have done topic analysis on the user queries using our [Hierarchical Privacy Preserving Information Retrieval](https://github.com/wasiahmad/Hierarchical-Privacy-Preserving-IR) project. Full result of this analysis is available [here](https://raw.githubusercontent.com/wasiahmad/AOL-Query-Log-Analysis/master/results/query-topic-analysis.md).
+#### Query and Two Most Likely Topics
+Full result of this analysis is available [here](https://raw.githubusercontent.com/wasiahmad/AOL-Query-Log-Analysis/master/results/query-topic-analysis.md).
+
+#### Top 500 Queries and Their Five Most Likely Topics
+Full result of this analysis is available [here](https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/top-500-frequent-queries-and-their-topics).
+
+#### Top 500 Topics and Their Corresponding Queries (Unique Queries Only)
+Full result of this analysis is available [here](https://raw.githubusercontent.com/wasiahmad/AOL-Query-Log-Analysis/master/results/top-500-frequent-topics-and-corresponding-queries).
 
 ### AOL Query-CoverQuery Topic Analysis
 

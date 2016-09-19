@@ -9,6 +9,9 @@ This project aims to analyze different aspects of the **AOL query log** and extr
   - [Organization Entity in User Queries](#organization-entity-in-user-queries)
  - [POSTag [Part-of-Speech tag] Analysis](#postag-part-of-speech-tag-analysis)
  - [AOL Query Topic Analysis](#aol-query-topic-analysis)
+  - [Queries and their two most likely topics](#Queries-and-their-two-most-likely-topics)
+  - [Top 500 queries and their five most likely topics](#Top-500-queries-and-their-five-most-likely-topics)
+  - [Top 500 topics and their corresponding queries (unique queries only)](#Top-500-topics-and-their-corresponding-queries-unique-queries-only)
  - [AOL Query-CoverQuery Topic Analysis](#aol-query-coverquery-topic-analysis)
   - [Example 1](#example-1)
   - [Example 2](#example-2)
@@ -64,13 +67,13 @@ We have used [Stanford Log Linear Part-of-Speech Tagger](http://nlp.stanford.edu
 ### AOL Query Topic Analysis
 We have done topic analysis on the user queries using our [Hierarchical Privacy Preserving Information Retrieval](https://github.com/wasiahmad/Hierarchical-Privacy-Preserving-IR) project.
 
-#### Query and Two Most Likely Topics
+#### Queries and their two most likely topics
 Full result of this analysis is available [here](https://raw.githubusercontent.com/wasiahmad/AOL-Query-Log-Analysis/master/results/query-topic-analysis.md).
 
-#### Top 500 Queries and Their Five Most Likely Topics
+#### Top 500 queries and their five most likely topics
 Full result of this analysis is available [here](https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/top-500-frequent-queries-and-their-topics).
 
-#### Top 500 Topics and Their Corresponding Queries (Unique Queries Only)
+#### Top 500 topics and their corresponding queries (unique queries only)
 Full result of this analysis is available [here](https://raw.githubusercontent.com/wasiahmad/AOL-Query-Log-Analysis/master/results/top-500-frequent-topics-and-corresponding-queries).
 
 ### AOL Query-CoverQuery Topic Analysis

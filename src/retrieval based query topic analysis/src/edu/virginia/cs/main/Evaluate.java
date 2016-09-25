@@ -52,21 +52,26 @@ public class Evaluate {
             ArrayList<ResultDoc> results = SEARCHER.search(query).getDocs();
             if (results.isEmpty()) {
                 fw.write("Query: " + query + "\n");
-                fw.write("No Search Results Found!!");
+                fw.write("No Search Results Found!!" + "\n");
                 fw.flush();
                 continue;
             }
-            HashMap<String, Integer> topicMap = new HashMap<>();
+            HashMap<String, Double> topicMap = new HashMap<>();
+            int rank = 1;
             for (ResultDoc rdoc : results) {
+                double score = ((int) ((1.0 / rank) * 100)) / 100.0;
                 if (topicMap.containsKey(rdoc.topic())) {
-                    topicMap.put(rdoc.topic(), topicMap.get(rdoc.topic()) + 1);
+                    score += topicMap.get(rdoc.topic());
+                    score = ((int) (score * 100)) / 100.0;
+                    topicMap.put(rdoc.topic(), score);
                 } else {
-                    topicMap.put(rdoc.topic(), 1);
+                    topicMap.put(rdoc.topic(), score);
                 }
+                rank++;
             }
             fw.write("Query: " + query + "\n");
             int i = 1;
-            for (Map.Entry<String, Integer> entry : MapUtilities.sortMapByValue(topicMap, true, 5).entrySet()) {
+            for (Map.Entry<String, Double> entry : MapUtilities.sortMapByValue(topicMap, false, 5).entrySet()) {
                 fw.write("Topic# " + i + " - " + entry.getKey() + "[" + entry.getValue() + "]" + "\n");
                 i++;
             }

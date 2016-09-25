@@ -71,7 +71,10 @@ We have done topic analysis on the user queries using our [Hierarchical Privacy 
 Full result of this analysis is available [here](https://raw.githubusercontent.com/wasiahmad/AOL-Query-Log-Analysis/master/results/query-topic-analysis.md).
 
 #### Top 500 queries and their five most likely topics
-Full result of this analysis is available [here](https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/top-500-frequent-queries-and-their-topics).
+
+##### Language Model based Topic Inference: Full result of this analysis is available [here](https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/top-500-frequent-queries-and-their-topics-lm-model).
+
+##### Retrieval based Topic Inference: Full result of this analysis is available [here](https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/top-500-frequent-queries-and-their-topics-retrieval-model).
 
 #### Top 500 topics and their corresponding queries (unique queries only)
 Full result of this analysis is available [here](https://raw.githubusercontent.com/wasiahmad/AOL-Query-Log-Analysis/master/results/top-500-frequent-topics-and-corresponding-queries).

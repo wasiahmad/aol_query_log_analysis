@@ -16,6 +16,7 @@ This project aims to analyze different aspects of the **AOL query log** and extr
   - [Example 1](#example-1)
   - [Example 2](#example-2)
   - [Example 3](#example-3)
+ - [Action Transition Analysis](#action-transition-analysis)
  - [AOL Data description](#aol-data-description)
 
 ### Named Entity [Person-Location-Organization] Analysis
@@ -117,6 +118,25 @@ Query: country inn & suites [2006-04-08 16:52:11], Best Topic: Hospitality<-Busi
 Cover Query#1 : 2007 upgrad england' rise star marriott courtyard [Hospitality<-Business<-Top], Cover Query#2 : luggag tagscustom [Consumer_Goods_and_Services<-Business<-Top]
 ```
 **Definition of Sequentially Edited Query:** If current user query topic is the parent or children of the previous query topic, then the current user query is sequentially edited.
+
+### Action Transition Analysis
+In this section we are presenting our analysis for action transition in sequence of queries submitted in a search session by the top 1000 users extracted from AOL dataset. Important facts are mentioned below.
+ 1. We have defined 8 actions in query sequence submitted by a user. They are initial_state, up1 step, up2 step, down1 step, down2 step, in same state, same parent (SP), same grand parent (SG) and others. Transitions mean different actions taken by users in terms of the DMOZ hierarchy tree which we are using for users' intent classification.
+ 2. Two consecutive queries belong to the same session if the interval between is less than 60 minutes or if they have 50% overlap in each other. Total sessions considered = 62,719 and total queries extracted (over 1000 users) = 2,75,586
+ 
+**Action Transition Matrix**
+
+| **Particulars** | **initial_state** | **up1** | **up2** | **down1** | **down2** | **same_state** | **SP** | **SG** | **others** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **initial_state** | 0 | 0 | 0 | 19 | 2977 | 0 | 0 | 0 | 58307 |
+| **up1** | 0 | 0 | 0 | 48 | 0 | 107 | 10 | 16 | 178 |
+| **up2** | 0 | 0 | 0 | 0 | 0 | 2 | 1 | 0 | 1 |
+| **down1** | 0 | 0 | 0 | 1 | 62 | 104 | 21 | 9 | 174 |
+| **down2** | 0 | 0 | 0 | 0 | 0 | 839 | 41 | 84 | 1860 |
+| **same_state** | 0 | 0 | 0 | 0 | 0 | 35541 | 2321 | 6807 | 54549 |
+| **SP** | 0 | 0 | 0 | 0 | 0 | 0 | 647 | 619 | 4082 |
+| **SG** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2671 | 17022 |
+| **others** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 74033 |
 
 ### AOL Data description
 

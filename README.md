@@ -120,23 +120,23 @@ Cover Query#1 : 2007 upgrad england' rise star marriott courtyard [Hospitality<-
 **Definition of Sequentially Edited Query:** If current user query topic is the parent or children of the previous query topic, then the current user query is sequentially edited.
 
 ### Action Transition Analysis
-In this section we are presenting our analysis for action transition in sequence of queries submitted in a search session by the top 1000 users extracted from AOL dataset. Important facts are mentioned below.
+In this section we are presenting our analysis for action transition in sequence of queries submitted in a search session by 9000 users (ranked from 1001 to 10000) extracted from AOL dataset. Important facts are mentioned below.
  1. We have defined 8 actions in query sequence submitted by a user. They are initial_state, up1 step, up2 step, down1 step, down2 step, in same state, same parent (SP), same grand parent (SG) and others. Transitions mean different actions taken by users in terms of the DMOZ hierarchy tree which we are using for users' intent classification.
- 2. Two consecutive queries belong to the same session if the interval between is less than 60 minutes or if they have 50% overlap in each other. Total sessions considered = 259,043 and total queries extracted (over 9000 users) = 9,69,605
+ 2. Two consecutive queries belong to the same session if the interval between is less than 60 minutes. Total sessions considered = 264,498 and total queries extracted (over 9000 users) = 8,54,975
  
 **Action Transition Matrix**
 
 | **Particulars** | **initial_state** | **up1** | **up2** | **down1** | **down2** | **same_state** | **SP** | **SG** | **others** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **initial_state** | 0 | 0 | 0 | 78 | 11287 | 0 | 0 | 0 | 239322 |
-| **up1** | 0 | 0 | 0 | 80 | 0 | 127 | 2 | 11 | 197 |
-| **up2** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 3 |
-| **down1** | 0 | 44 | 0 | 1 | 1 | 168 | 34 | 29 | 223 |
-| **down2** | 0 | 2 | 0 | 245 | 0 | 3494 | 82 | 250 | 6932 |
-| **same_state** | 0 | 151 | 2 | 127 | 1 | 125851 | 3168 | 9844 | 53522 |
-| **SP** | 0 | 31 | 0 | 2 | 0 | 3143 | 1987 | 925 | 3737 |
-| **SG** | 0 | 23 | 0 | 6 | 0 | 9394 | 931 | 7625 | 16059 |
-| **others** | 0 | 427 | 3 | 197 | 2 | 133560 | 9709 | 37507 | 243642 |
+| **initial_state** | 0 | 0 | 0 | 78 | 11461 | 0 | 0 | 0 | 245700 |
+| **up1** | 0 | 0 | 0 | 62 | 0 | 110 | 3 | 9 | 184 |
+| **up2** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 2 |
+| **down1** | 0 | 31 | 0 | 1 | 1 | 135 | 34 | 26 | 203 |
+| **down2** | 0 | 1 | 0 | 237 | 0 | 2964 | 78 | 278 | 7560 |
+| **same_state** | 0 | 125 | 2 | 108 | 1 | 58852 | 2421 | 7405 | 38209 |
+| **SP** | 0 | 32 | 0 | 1 | 0 | 2478 | 1556 | 833 | 3425 |
+| **SG** | 0 | 23 | 0 | 5 | 0 | 7326 | 869 | 6870 | 15128 |
+| **others** | 0 | 431 | 3 | 184 | 2 | 111366 | 9723 | 38202 | 246946 |
 
 ### AOL Data description
 

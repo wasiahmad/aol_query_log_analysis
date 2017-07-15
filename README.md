@@ -1,5 +1,8 @@
 # AOL Query Log Analysis
-This project aims to analyze different aspects of the **AOL query log** and extract insightful information that may help to approach other research problems in **information retrieval**. For all the experimented conducted here, we have considered only the top **1000** user search logs who has the most number of search queries with clicks.
+
+<p align="justify">
+This project aims to analyze different aspects of the <b>AOL query log</b> and extract insightful information that may help to approach other research problems in <b>information retrieval</b>. For all the experimented conducted here, we have considered only the top <b>1000</b> user search logs who has the most number of search queries with clicks.
+<p align="justify">
 
 ## Table of Contents
  - [Named Entity [Person-Location-Organization] Analysis](#named-entity-person-location-organization-analysis)
@@ -38,7 +41,7 @@ We have used [Stanford Named Entity Recognizer (NER)](http://nlp.stanford.edu/so
 In the following figure, we are presenting the statistics of the user queries where name entities are used.
 
 <p align="center">
-  <img src="https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/person-mention.png" width="750"/>
+  <img src="https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/person-mention.png" width="600"/>
 </p>
 
 From the graph, we can see **383** and **346** users mentioned about named entities in their **10%-20%** and **20%-30%** queries respectively.
@@ -47,7 +50,7 @@ From the graph, we can see **383** and **346** users mentioned about named entit
 In the following figure, we are presenting the statistics of the user queries where location entities are used.
 
 <p align="center">
-  <img src="https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/location-mention.png" width="750"/>
+  <img src="https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/location-mention.png" width="600"/>
 </p>
 
 From the graph, we can see **574** and **302** users mentioned about named entities in their **0%-10%** and **10%-20%** queries respectively.
@@ -56,7 +59,7 @@ From the graph, we can see **574** and **302** users mentioned about named entit
 In the following figure, we are presenting the statistics of the user queries where organization entities are used.
 
 <p align="center">
-  <img src="https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/organization-mention.png" width="750"/>
+  <img src="https://github.com/wasiahmad/AOL-Query-Log-Analysis/blob/master/results/organization-mention.png" width="600"/>
 </p>
 
 From the graph, we can see **425** and **430** users mentioned about named entities in their **0%-10%** and **10%-20%** queries respectively.
